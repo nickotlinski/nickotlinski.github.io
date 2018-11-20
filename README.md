@@ -1,9 +1,6 @@
-### Projects | Research | Data
-* Projects
-* Research
-* Data
+#### Projects | Research | Data
 
-##### About Me
+#### About Me
 
 GIS Analyst and Cartographer in the [Keller Science Action Center](https://www.fieldmuseum.org/science/research/area/keller-science-action-center) at the Field Museum in Chicago.
 
