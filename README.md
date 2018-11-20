@@ -1,6 +1,8 @@
-### Projects | [Research](nickotlinski.github.io/research.md) | Data
 
-#### About Me
+
+#### [Projects](nickotlinski.github.io/projects.md) | [Research](nickotlinski.github.io/research.md) | [Data](nickotlinski.github.io/data.md)
+
+##### About Me
 
 GIS Analyst and Cartographer in the [Keller Science Action Center](https://www.fieldmuseum.org/science/research/area/keller-science-action-center) at the Field Museum in Chicago.
 
