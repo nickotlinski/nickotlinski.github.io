@@ -1,6 +1,6 @@
-<br><br>
+<br>
 
-#### [Projects](nickotlinski.github.io/projects.md) | [Research](nickotlinski.github.io/research.html) | [Data](nickotlinski.github.io/data.md)
+#### [Projects](nickotlinski.github.io/projects.md)  |  [Research](research.html)  |  [Data](nickotlinski.github.io/data.md)
 
 ##### About Me
 
