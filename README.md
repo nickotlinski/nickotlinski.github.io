@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Nicholas Kotlinski | Geography and GIS
 
-You can use the [editor on GitHub](https://github.com/nickotlinski/nickotlinski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+Read my article on how GIS can help aquatic ecologists working in Mongolian rivers in the [Spring 2017](http://esri.com/esri-news/arcnews/spring17articles/comparing-distant-river-systems-to-assess-the-effects-of-climate-change) edition of ArcNews Magazine.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm currently a GIS Analyst and Cartographer in the Keller Science Action Center at the Field Museum in Chicago.
 
-```markdown
-Syntax highlighted code block
+Before moving to Chicago I was an Assistant Researcher and GIS Specialist at the Kansas Biological Survey. My work involved the development of GIS tools for hydrogeomorphic analysis and categorization of river systems, with a focus on temperate steppe rivers in North America and Mongolia.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickotlinski/nickotlinski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My research and professional interests include: political ecology, GIS and remote sensing, ecological modeling, tropical land use/land cover monitoring, Amazonia, participatory mapping, and unmanned aerial systems (UAS) applications. See my [Research](www.///.com) page for more information.
