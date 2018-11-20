@@ -1,4 +1,4 @@
-### Projects | Research | Data
+### Projects | [Research](nickotlinski.github.io/research.md) | Data
 
 #### About Me
 
